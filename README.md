@@ -21,23 +21,26 @@
 - [Moveit2]()
 - [Moveit2 + Isaac]()
 
+TODO: write down potential impact
 
-## GitHub Codespace Sandboxes & Templates
 
-- https://github.com/rplayground/sandbox
-- https://github.com/mjyc/ros-sandbox
-- https://github.com/ijnek/ros-devcontainer-template/tree/main
-- Foxglove Feature would be nice
+## GitHub Codespace Sandboxes & Templates & Features
 
+- [rplayground/sandbox](https://github.com/rplayground/sandbox)
+- [mjyc/ros-sandbox](https://github.com/mjyc/ros-sandbox)
+- [ijnek/ros-devcontainer-template](https://github.com/ijnek/ros-devcontainer-template)
+
+### Proposed
+
+- Foxglove Dev Feature would be nice
 
 ## Beyond GitHub Codespaces - Other Platforms
 
-- rosject
-- rosblock
-- the company that went down
+- [TheConstruct](https://www.theconstructsim.com/)
+- [ROSbloX](https://rosblox.github.io/)
+- [Yonohub](https://yonohub.com/)
 
 ## Resources
 
-- Ruffin's Nav2 guide
-- Laptop development is dead - general remote 
-- DevZero bog
+- [NAV2: Dev Containers](https://navigation.ros.org/development_guides/devcontainer_docs/index.html)
+- [Laptop development is dead](https://medium.com/@elliotgraebert/laptop-development-is-dead-why-remote-development-is-the-future-f92ce103fd13)
