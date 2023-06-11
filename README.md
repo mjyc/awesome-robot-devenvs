@@ -14,25 +14,24 @@
 
 ### Proposed
 
-- [Duckietown]()
-    - [](https://github.com/duckietown/dt-env-developer/)
-- [Autoware]()
-- [Openmanipulator-x]()
-- [Moveit2]()
-- [Moveit2 + Isaac]()
+- [Duckietown](https://www.duckietown.org/): [Setup - Laptop](https://docs.duckietown.com/daffy/opmanual-duckiebot/setup/setup_laptop/index.html) of [Duckiebot](https://get.duckietown.com/products/duckiebot-db21)
+    - Expected impact: help students to get started immediately, free teachers to help troubleshooting software install problems
+- [Autoware](https://autowarefoundation.github.io/autoware-documentation/main/): [Installation](https://autowarefoundation.github.io/autoware-documentation/main/installation/)
+    - Expected impact: help non-roboticists developers to get started on autonomous driving with ease.
 
-TODO: write down potential impact
+Or pick any projects from [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) and to help making opensource robotics projects more accesible!
 
 
 ## GitHub Codespace Sandboxes & Templates & Features
 
-- [rplayground/sandbox](https://github.com/rplayground/sandbox)
-- [mjyc/ros-sandbox](https://github.com/mjyc/ros-sandbox)
-- [ijnek/ros-devcontainer-template](https://github.com/ijnek/ros-devcontainer-template)
+- [rplayground/sandbox](https://github.com/rplayground/sandbox) - A sandbox playground for robotics development.
+- [mjyc/ros-sandbox](https://github.com/mjyc/ros-sandbox) - ROS Sandbox
+- [ijnek/ros-devcontainer-template](https://github.com/ijnek/ros-devcontainer-template) - ROS [Dev Container Template](https://containers.dev/templates)
 
 ### Proposed
 
-- Foxglove Dev Feature would be nice
+- [Self-hosted Foxglove Studio](https://github.com/foxglove/studio#self-hosting) as [Dev Container Feature](https://containers.dev/features)
+
 
 ## Beyond GitHub Codespaces - Other Platforms
 
@@ -40,7 +39,8 @@ TODO: write down potential impact
 - [ROSbloX](https://rosblox.github.io/)
 - [Yonohub](https://yonohub.com/)
 
+
 ## Resources
 
-- [NAV2: Dev Containers](https://navigation.ros.org/development_guides/devcontainer_docs/index.html)
+- [Nav2: Dev Containers](https://navigation.ros.org/development_guides/devcontainer_docs/index.html)
 - [Laptop development is dead](https://medium.com/@elliotgraebert/laptop-development-is-dead-why-remote-development-is-the-future-f92ce103fd13)
