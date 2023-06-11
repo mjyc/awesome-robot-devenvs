@@ -18,6 +18,10 @@
     - Expected impact: help students to get started immediately, free teachers to help troubleshooting software install problems
 - [Autoware](https://autowarefoundation.github.io/autoware-documentation/main/): [Installation](https://autowarefoundation.github.io/autoware-documentation/main/installation/)
     - Expected impact: help non-roboticists developers to get started on autonomous driving with ease.
+- [Nvidia Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html) and [Nav2](https://navigation.ros.org/) - [ROS2 Navigation](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/tutorial_ros2_navigation.html)
+- [Nvidia Isaac Sim](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/overview.html) and [MoveIt](https://moveit.picknik.ai/main/index.html) - [How To Command Simulated Isaac Robot](https://moveit.picknik.ai/main/doc/how_to_guides/isaac_panda/isaac_panda_tutorial.html), [Running MoveIt 2 Tutorial in Docker](https://docs.omniverse.nvidia.com/app_isaacsim/app_isaacsim/tutorial_ros2_moveit.html#running-moveit-2-tutorial-in-docker)
+- [OpenMANIPULATOR-x](https://emanual.robotis.com/docs/en/platform/openmanipulator_x/ros_simulation/)
+- [ROBEL](https://sites.google.com/view/roboticsbenchmarks/getting-started)
 
 Or pick any projects from [awesome-robotics-projects](https://github.com/mjyc/awesome-robotics-projects) and to help making opensource robotics projects more accesible!
 
