@@ -39,9 +39,11 @@ Or pick any projects from [awesome-robotics-projects](https://github.com/mjyc/aw
 - [TheConstruct](https://www.theconstructsim.com/)
 - [ROSbloX](https://rosblox.github.io/)
 - [Yonohub](https://yonohub.com/)
+- [robolaunch](https://robolaunch.io/)
 
 
 ## Resources
 
 - [Nav2: Dev Containers](https://navigation.ros.org/development_guides/devcontainer_docs/index.html)
 - [Laptop development is dead](https://medium.com/@elliotgraebert/laptop-development-is-dead-why-remote-development-is-the-future-f92ce103fd13)
+- [Where does DevZero fit?](https://www.devzero.io/docs/where-does-devzero-fit)
