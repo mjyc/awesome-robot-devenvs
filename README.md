@@ -4,6 +4,7 @@
 
 - [ros-planning/navigation2](https://github.com/ros-planning/navigation2) - Nav2, [AWS RoboMaker Small Warehouse World](https://github.com/aws-robotics/aws-robomaker-small-warehouse-world), Gazebo classic, ROS2 Iron
     - [Repeatable, Reproducible, and now Accessible! ROS Development via Dev Containers](https://discourse.ros.org/t/repeatable-reproducible-and-now-accessible-ros-development-via-dev-containers/31398)
+- [commaai/openpilot](https://github.com/commaai/openpilot)
 
 ### WIP
 
